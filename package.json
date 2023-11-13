@@ -1,0 +1,25 @@
+{
+  "name": "iot_tc1004b",
+  "version": "1.0.0",
+  "description": "Azure Event Hub connection ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iris14159/IOT_TC1004B.git"
+  },
+  "keywords": [
+    "Event_Hub",
+    "Azure",
+    "MySQL",
+    "IOT"
+  ],
+  "author": "Renato, Fidel, Maximiliano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iris14159/IOT_TC1004B/issues"
+  },
+  "homepage": "https://github.com/Iris14159/IOT_TC1004B#readme"
+}
