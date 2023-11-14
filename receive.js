@@ -1,17 +1,16 @@
-const { EventHubConsumerClient, earliestEventPosition  } = require("@azure/event-hubs");
-const { ContainerClient } = require("@azure/storage-blob");    
+const { EventHubConsumerClient, earliestEventPosition } = require("@azure/event-hubs");
+const { ContainerClient } = require("@azure/storage-blob");
 const { BlobCheckpointStore } = require("@azure/eventhubs-checkpointstore-blob");
 const { connectionString, eventHubName, consumerGroup, storageConnectionString, containerName } = require("./keys");
+const fs = require('fs');
 
 async function main() {
-  // Create a blob container client and a blob checkpoint store using the client.
   const containerClient = new ContainerClient(storageConnectionString, containerName);
   const checkpointStore = new BlobCheckpointStore(containerClient);
-
-  // Create a consumer client for the event hub by specifying the checkpoint store.
   const consumerClient = new EventHubConsumerClient(consumerGroup, connectionString, eventHubName, checkpointStore);
 
-  // Subscribe to the events, and specify handlers for processing the events and errors.
+  let eventData = [];
+
   const subscription = consumerClient.subscribe({
       processEvents: async (events, context) => {
         if (events.length === 0) {
@@ -21,8 +20,9 @@ async function main() {
 
         for (const event of events) {
           console.log(`Received event: '${event.body}' from partition: '${context.partitionId}' and consumer group: '${context.consumerGroup}'`);
+          eventData.push(event.body); // Almacena los datos del evento en un arreglo
         }
-        // Update the checkpoint.
+
         await context.updateCheckpoint(events[events.length - 1]);
       },
 
@@ -33,13 +33,16 @@ async function main() {
     { startPosition: earliestEventPosition }
   );
 
-  // After x seconds, stop processing.
   await new Promise((resolve) => {
     setTimeout(async () => {
       await subscription.close();
       await consumerClient.close();
+      fs.writeFile('eventData.json', JSON.stringify(eventData, null, 2), (err) => {
+        if (err) throw err;
+        console.log('Data written to file');
+      });
       resolve();
-    }, 60000);
+    }, 90000);
   });
 }
 
