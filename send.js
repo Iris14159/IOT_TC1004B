@@ -12,7 +12,6 @@ async function main() {
 
   await producer.sendBatch(batch);
 
-  // Close the producer client.
   await producer.close();
 
   console.log("A batch of three events have been sent to the event hub");
