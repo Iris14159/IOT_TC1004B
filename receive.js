@@ -1,3 +1,12 @@
+/*----------------------------------------------------------
+ * receive.js
+ *
+ * Date: 21-Nov-2023
+ * Authors:
+ *           A01799387 Renato Garcia Moran
+ *           A01798048 Maximilisno De La Cruz Lima
+ *           A01798199 Fidel Alexander Bonilla Montalvo
+ *----------------------------------------------------------*/
 const { EventHubConsumerClient, earliestEventPosition } = require("@azure/event-hubs");
 const { ContainerClient } = require("@azure/storage-blob");
 const { BlobCheckpointStore } = require("@azure/eventhubs-checkpointstore-blob");
@@ -20,7 +29,7 @@ async function main() {
 
         for (const event of events) {
           console.log(`Received event: '${event.body}' from partition: '${context.partitionId}' and consumer group: '${context.consumerGroup}'`);
-          eventData.push(event.body); // Almacena los datos del evento en un arreglo
+          eventData.push(event.body);
         }
 
         await context.updateCheckpoint(events[events.length - 1]);
@@ -42,7 +51,7 @@ async function main() {
         console.log('Data written to file');
       });
       resolve();
-    }, 90000);
+    }, 30000);
   });
 }
 
