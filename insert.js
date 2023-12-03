@@ -7,6 +7,7 @@
  *           A01798048 Maximilisno De La Cruz Lima
  *           A01798199 Fidel Alexander Bonilla Montalvo
  *----------------------------------------------------------*/
+
 const fs = require('fs');
 const mysql = require('mysql');
 const config = require('./config.js');
