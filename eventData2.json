@@ -1,0 +1,1793 @@
+[
+  {
+    "device": "42933B",
+    "time": 1701096233,
+    "seqNumber": "1704",
+    "ppm": 45,
+    "Temperatura corporal": 28.347996,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096254,
+    "seqNumber": "1706",
+    "ppm": 45,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096354,
+    "seqNumber": "1709",
+    "ppm": 19,
+    "Temperatura corporal": 30.303032,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096363,
+    "seqNumber": "1710",
+    "ppm": 19,
+    "Temperatura corporal": 32.746822,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096394,
+    "seqNumber": "1713",
+    "ppm": 43,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096404,
+    "seqNumber": "1714",
+    "ppm": 48,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096444,
+    "seqNumber": "1718",
+    "ppm": 64,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096455,
+    "seqNumber": "1719",
+    "ppm": 64,
+    "Temperatura corporal": 31.769306,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096214,
+    "seqNumber": "1702",
+    "ppm": 31,
+    "Temperatura corporal": 27.37048,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096224,
+    "seqNumber": "1703",
+    "ppm": 45,
+    "Temperatura corporal": 29.325512,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096244,
+    "seqNumber": "1705",
+    "ppm": 45,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096263,
+    "seqNumber": "1707",
+    "ppm": 45,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096343,
+    "seqNumber": "1708",
+    "ppm": 0,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096374,
+    "seqNumber": "1711",
+    "ppm": 37,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096384,
+    "seqNumber": "1712",
+    "ppm": 37,
+    "Temperatura corporal": 29.325512,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096414,
+    "seqNumber": "1715",
+    "ppm": 42,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096424,
+    "seqNumber": "1716",
+    "ppm": 54,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096434,
+    "seqNumber": "1717",
+    "ppm": 68,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096464,
+    "seqNumber": "1720",
+    "ppm": 63,
+    "Temperatura corporal": 31.769306,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096474,
+    "seqNumber": "1721",
+    "ppm": 47,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096484,
+    "seqNumber": "1722",
+    "ppm": 47,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096494,
+    "seqNumber": "1723",
+    "ppm": 36,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096504,
+    "seqNumber": "1724",
+    "ppm": 30,
+    "Temperatura corporal": 31.769306,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096514,
+    "seqNumber": "1725",
+    "ppm": 41,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096524,
+    "seqNumber": "1726",
+    "ppm": 41,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096534,
+    "seqNumber": "1727",
+    "ppm": 56,
+    "Temperatura corporal": 32.258064,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096545,
+    "seqNumber": "1728",
+    "ppm": 70,
+    "Temperatura corporal": 35.679375,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096555,
+    "seqNumber": "1729",
+    "ppm": 70,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096564,
+    "seqNumber": "1730",
+    "ppm": 57,
+    "Temperatura corporal": 36.168137,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096575,
+    "seqNumber": "1731",
+    "ppm": 54,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096585,
+    "seqNumber": "1732",
+    "ppm": 61,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096594,
+    "seqNumber": "1733",
+    "ppm": 61,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096605,
+    "seqNumber": "1734",
+    "ppm": 65,
+    "Temperatura corporal": 30.303032,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096615,
+    "seqNumber": "1735",
+    "ppm": 51,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096624,
+    "seqNumber": "1736",
+    "ppm": 54,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096635,
+    "seqNumber": "1737",
+    "ppm": 57,
+    "Temperatura corporal": 33.235584,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096644,
+    "seqNumber": "1738",
+    "ppm": 47,
+    "Temperatura corporal": 156.89151,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.9
+  },
+  {
+    "device": "42933B",
+    "time": 1701096655,
+    "seqNumber": "1739",
+    "ppm": 49,
+    "Temperatura corporal": 154.93646,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.9
+  },
+  {
+    "device": "42933B",
+    "time": 1701096665,
+    "seqNumber": "1740",
+    "ppm": 38,
+    "Temperatura corporal": 160.80157,
+    "Humedad": 49,
+    "Temperatura ambiental": 22
+  },
+  {
+    "device": "42933B",
+    "time": 1701096675,
+    "seqNumber": "1741",
+    "ppm": 36,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.9
+  },
+  {
+    "device": "42933B",
+    "time": 1701096685,
+    "seqNumber": "1742",
+    "ppm": 56,
+    "Temperatura corporal": 33.235584,
+    "Humedad": 49,
+    "Temperatura ambiental": 22
+  },
+  {
+    "device": "42933B",
+    "time": 1701096695,
+    "seqNumber": "1743",
+    "ppm": 58,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 48,
+    "Temperatura ambiental": 22
+  },
+  {
+    "device": "42933B",
+    "time": 1701096705,
+    "seqNumber": "1744",
+    "ppm": 58,
+    "Temperatura corporal": 155.91397,
+    "Humedad": 49,
+    "Temperatura ambiental": 22
+  },
+  {
+    "device": "42933B",
+    "time": 1701096715,
+    "seqNumber": "1745",
+    "ppm": 45,
+    "Temperatura corporal": 140.27371,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.1
+  },
+  {
+    "device": "42933B",
+    "time": 1701096725,
+    "seqNumber": "1746",
+    "ppm": 33,
+    "Temperatura corporal": 144.67255,
+    "Humedad": 49,
+    "Temperatura ambiental": 22
+  },
+  {
+    "device": "42933B",
+    "time": 1701091265,
+    "seqNumber": "1663",
+    "ppm": 0,
+    "Temperatura corporal": 26.392962,
+    "Humedad": 58,
+    "Temperatura ambiental": 19.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701091275,
+    "seqNumber": "1664",
+    "ppm": 28,
+    "Temperatura corporal": 26.392962,
+    "Humedad": 58,
+    "Temperatura ambiental": 19.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701091285,
+    "seqNumber": "1665",
+    "ppm": 79,
+    "Temperatura corporal": 27.37048,
+    "Humedad": 58,
+    "Temperatura ambiental": 19.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701091295,
+    "seqNumber": "1666",
+    "ppm": 68,
+    "Temperatura corporal": 27.37048,
+    "Humedad": 59,
+    "Temperatura ambiental": 19.9
+  },
+  {
+    "device": "42933B",
+    "time": 1701091315,
+    "seqNumber": "1668",
+    "ppm": 61,
+    "Temperatura corporal": 24.926687,
+    "Humedad": 59,
+    "Temperatura ambiental": 19.9
+  },
+  {
+    "device": "42933B",
+    "time": 1701091255,
+    "seqNumber": "1662",
+    "ppm": 0,
+    "Temperatura corporal": 25.415445,
+    "Humedad": 58,
+    "Temperatura ambiental": 19.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701091305,
+    "seqNumber": "1667",
+    "ppm": 61,
+    "Temperatura corporal": 27.37048,
+    "Humedad": 59,
+    "Temperatura ambiental": 19.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701091325,
+    "seqNumber": "1669",
+    "ppm": 73,
+    "Temperatura corporal": 26.392962,
+    "Humedad": 58,
+    "Temperatura ambiental": 19.9
+  },
+  {
+    "device": "42933B",
+    "time": 1701091335,
+    "seqNumber": "1670",
+    "ppm": 51,
+    "Temperatura corporal": 27.859238,
+    "Humedad": 58,
+    "Temperatura ambiental": 19.9
+  },
+  {
+    "device": "42933B",
+    "time": 1701096233,
+    "seqNumber": "1704",
+    "ppm": 45,
+    "Temperatura corporal": 28.347996,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096254,
+    "seqNumber": "1706",
+    "ppm": 45,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096354,
+    "seqNumber": "1709",
+    "ppm": 19,
+    "Temperatura corporal": 30.303032,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096363,
+    "seqNumber": "1710",
+    "ppm": 19,
+    "Temperatura corporal": 32.746822,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096394,
+    "seqNumber": "1713",
+    "ppm": 43,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096404,
+    "seqNumber": "1714",
+    "ppm": 48,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096444,
+    "seqNumber": "1718",
+    "ppm": 64,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096455,
+    "seqNumber": "1719",
+    "ppm": 64,
+    "Temperatura corporal": 31.769306,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096214,
+    "seqNumber": "1702",
+    "ppm": 31,
+    "Temperatura corporal": 27.37048,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096224,
+    "seqNumber": "1703",
+    "ppm": 45,
+    "Temperatura corporal": 29.325512,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096244,
+    "seqNumber": "1705",
+    "ppm": 45,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096263,
+    "seqNumber": "1707",
+    "ppm": 45,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096343,
+    "seqNumber": "1708",
+    "ppm": 0,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701096374,
+    "seqNumber": "1711",
+    "ppm": 37,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096384,
+    "seqNumber": "1712",
+    "ppm": 37,
+    "Temperatura corporal": 29.325512,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096414,
+    "seqNumber": "1715",
+    "ppm": 42,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096424,
+    "seqNumber": "1716",
+    "ppm": 54,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 51,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096434,
+    "seqNumber": "1717",
+    "ppm": 68,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096464,
+    "seqNumber": "1720",
+    "ppm": 63,
+    "Temperatura corporal": 31.769306,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096474,
+    "seqNumber": "1721",
+    "ppm": 47,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096484,
+    "seqNumber": "1722",
+    "ppm": 47,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096494,
+    "seqNumber": "1723",
+    "ppm": 36,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096504,
+    "seqNumber": "1724",
+    "ppm": 30,
+    "Temperatura corporal": 31.769306,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096514,
+    "seqNumber": "1725",
+    "ppm": 41,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096524,
+    "seqNumber": "1726",
+    "ppm": 41,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096534,
+    "seqNumber": "1727",
+    "ppm": 56,
+    "Temperatura corporal": 32.258064,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096545,
+    "seqNumber": "1728",
+    "ppm": 70,
+    "Temperatura corporal": 35.679375,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701096555,
+    "seqNumber": "1729",
+    "ppm": 70,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096564,
+    "seqNumber": "1730",
+    "ppm": 57,
+    "Temperatura corporal": 36.168137,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096575,
+    "seqNumber": "1731",
+    "ppm": 54,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096585,
+    "seqNumber": "1732",
+    "ppm": 61,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096594,
+    "seqNumber": "1733",
+    "ppm": 61,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096605,
+    "seqNumber": "1734",
+    "ppm": 65,
+    "Temperatura corporal": 30.303032,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096615,
+    "seqNumber": "1735",
+    "ppm": 51,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096624,
+    "seqNumber": "1736",
+    "ppm": 54,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096635,
+    "seqNumber": "1737",
+    "ppm": 57,
+    "Temperatura corporal": 33.235584,
+    "Humedad": 50,
+    "Temperatura ambiental": 21.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701096644,
+    "seqNumber": "1738",
+    "ppm": 47,
+    "Temperatura corporal": 156.89151,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.9
+  },
+  {
+    "device": "42933B",
+    "time": 1701096655,
+    "seqNumber": "1739",
+    "ppm": 49,
+    "Temperatura corporal": 154.93646,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.9
+  },
+  {
+    "device": "42933B",
+    "time": 1701096665,
+    "seqNumber": "1740",
+    "ppm": 38,
+    "Temperatura corporal": 160.80157,
+    "Humedad": 49,
+    "Temperatura ambiental": 22
+  },
+  {
+    "device": "42933B",
+    "time": 1701096675,
+    "seqNumber": "1741",
+    "ppm": 36,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 21.9
+  },
+  {
+    "device": "42933B",
+    "time": 1701096685,
+    "seqNumber": "1742",
+    "ppm": 56,
+    "Temperatura corporal": 33.235584,
+    "Humedad": 49,
+    "Temperatura ambiental": 22
+  },
+  {
+    "device": "42933B",
+    "time": 1701096695,
+    "seqNumber": "1743",
+    "ppm": 58,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 48,
+    "Temperatura ambiental": 22
+  },
+  {
+    "device": "42933B",
+    "time": 1701096705,
+    "seqNumber": "1744",
+    "ppm": 58,
+    "Temperatura corporal": 155.91397,
+    "Humedad": 49,
+    "Temperatura ambiental": 22
+  },
+  {
+    "device": "42933B",
+    "time": 1701096715,
+    "seqNumber": "1745",
+    "ppm": 45,
+    "Temperatura corporal": 140.27371,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.1
+  },
+  {
+    "device": "42933B",
+    "time": 1701096725,
+    "seqNumber": "1746",
+    "ppm": 33,
+    "Temperatura corporal": 144.67255,
+    "Humedad": 49,
+    "Temperatura ambiental": 22
+  },
+  {
+    "device": "42933B",
+    "time": 1701097420,
+    "seqNumber": "1787",
+    "ppm": 0,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.4
+  },
+  {
+    "device": "42933B",
+    "time": 1701097461,
+    "seqNumber": "1791",
+    "ppm": 0,
+    "Temperatura corporal": 27.37048,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701097480,
+    "seqNumber": "1793",
+    "ppm": 0,
+    "Temperatura corporal": 28.347996,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701097491,
+    "seqNumber": "1794",
+    "ppm": 0,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701097521,
+    "seqNumber": "1797",
+    "ppm": 0,
+    "Temperatura corporal": 26.881721,
+    "Humedad": 52,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701097565,
+    "seqNumber": "1799",
+    "ppm": 0,
+    "Temperatura corporal": 33.724342,
+    "Humedad": 52,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097586,
+    "seqNumber": "1801",
+    "ppm": 55,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 51,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097616,
+    "seqNumber": "1804",
+    "ppm": 44,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097626,
+    "seqNumber": "1805",
+    "ppm": 47,
+    "Temperatura corporal": 27.37048,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097636,
+    "seqNumber": "1806",
+    "ppm": 56,
+    "Temperatura corporal": 32.746822,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097656,
+    "seqNumber": "1808",
+    "ppm": 57,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097430,
+    "seqNumber": "1788",
+    "ppm": 0,
+    "Temperatura corporal": 32.746822,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701097440,
+    "seqNumber": "1789",
+    "ppm": 0,
+    "Temperatura corporal": 27.859238,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701097450,
+    "seqNumber": "1790",
+    "ppm": 0,
+    "Temperatura corporal": 27.37048,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701097470,
+    "seqNumber": "1792",
+    "ppm": 0,
+    "Temperatura corporal": 26.881721,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701097501,
+    "seqNumber": "1795",
+    "ppm": 0,
+    "Temperatura corporal": 26.392962,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701097511,
+    "seqNumber": "1796",
+    "ppm": 0,
+    "Temperatura corporal": 26.881721,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701097531,
+    "seqNumber": "1798",
+    "ppm": 0,
+    "Temperatura corporal": 27.859238,
+    "Humedad": 53,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701097576,
+    "seqNumber": "1800",
+    "ppm": 53,
+    "Temperatura corporal": 30.303032,
+    "Humedad": 51,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097596,
+    "seqNumber": "1802",
+    "ppm": 44,
+    "Temperatura corporal": 31.769306,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097606,
+    "seqNumber": "1803",
+    "ppm": 44,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097646,
+    "seqNumber": "1807",
+    "ppm": 54,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097666,
+    "seqNumber": "1809",
+    "ppm": 57,
+    "Temperatura corporal": 31.769306,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097676,
+    "seqNumber": "1810",
+    "ppm": 56,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097686,
+    "seqNumber": "1811",
+    "ppm": 53,
+    "Temperatura corporal": 34.70186,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097696,
+    "seqNumber": "1812",
+    "ppm": 47,
+    "Temperatura corporal": 34.70186,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097706,
+    "seqNumber": "1813",
+    "ppm": 56,
+    "Temperatura corporal": 32.258064,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097717,
+    "seqNumber": "1814",
+    "ppm": 56,
+    "Temperatura corporal": 31.769306,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097726,
+    "seqNumber": "1815",
+    "ppm": 56,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097736,
+    "seqNumber": "1816",
+    "ppm": 56,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097747,
+    "seqNumber": "1817",
+    "ppm": 57,
+    "Temperatura corporal": 33.235584,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097756,
+    "seqNumber": "1818",
+    "ppm": 71,
+    "Temperatura corporal": 32.258064,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097766,
+    "seqNumber": "1819",
+    "ppm": 71,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097777,
+    "seqNumber": "1820",
+    "ppm": 58,
+    "Temperatura corporal": 32.258064,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097786,
+    "seqNumber": "1821",
+    "ppm": 57,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097796,
+    "seqNumber": "1822",
+    "ppm": 60,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097807,
+    "seqNumber": "1823",
+    "ppm": 46,
+    "Temperatura corporal": 27.859238,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097816,
+    "seqNumber": "1824",
+    "ppm": 46,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097827,
+    "seqNumber": "1825",
+    "ppm": 46,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097837,
+    "seqNumber": "1826",
+    "ppm": 65,
+    "Temperatura corporal": 31.769306,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097847,
+    "seqNumber": "1827",
+    "ppm": 54,
+    "Temperatura corporal": 34.70186,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701097857,
+    "seqNumber": "1828",
+    "ppm": 46,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097867,
+    "seqNumber": "1829",
+    "ppm": 46,
+    "Temperatura corporal": 31.769306,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097877,
+    "seqNumber": "1830",
+    "ppm": 46,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097887,
+    "seqNumber": "1831",
+    "ppm": 50,
+    "Temperatura corporal": 34.2131,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097897,
+    "seqNumber": "1832",
+    "ppm": 64,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097907,
+    "seqNumber": "1833",
+    "ppm": 64,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097917,
+    "seqNumber": "1834",
+    "ppm": 64,
+    "Temperatura corporal": 29.814274,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097927,
+    "seqNumber": "1835",
+    "ppm": 38,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701097937,
+    "seqNumber": "1836",
+    "ppm": 27,
+    "Temperatura corporal": 29.814274,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097947,
+    "seqNumber": "1837",
+    "ppm": 27,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097957,
+    "seqNumber": "1838",
+    "ppm": 36,
+    "Temperatura corporal": 33.724342,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097967,
+    "seqNumber": "1839",
+    "ppm": 39,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097977,
+    "seqNumber": "1840",
+    "ppm": 48,
+    "Temperatura corporal": 33.724342,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097988,
+    "seqNumber": "1841",
+    "ppm": 48,
+    "Temperatura corporal": 32.258064,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701097997,
+    "seqNumber": "1842",
+    "ppm": 46,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701098007,
+    "seqNumber": "1843",
+    "ppm": 46,
+    "Temperatura corporal": 33.724342,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701098017,
+    "seqNumber": "1844",
+    "ppm": 46,
+    "Temperatura corporal": 32.258064,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701098027,
+    "seqNumber": "1845",
+    "ppm": 46,
+    "Temperatura corporal": 34.70186,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701098037,
+    "seqNumber": "1846",
+    "ppm": 46,
+    "Temperatura corporal": 38.12317,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701098047,
+    "seqNumber": "1847",
+    "ppm": 46,
+    "Temperatura corporal": 32.258064,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701098057,
+    "seqNumber": "1848",
+    "ppm": 46,
+    "Temperatura corporal": 32.258064,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701098067,
+    "seqNumber": "1849",
+    "ppm": 46,
+    "Temperatura corporal": 37.145653,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701098077,
+    "seqNumber": "1850",
+    "ppm": 46,
+    "Temperatura corporal": 40.0782,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701098087,
+    "seqNumber": "1851",
+    "ppm": 46,
+    "Temperatura corporal": 35.679375,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.8
+  },
+  {
+    "device": "42933B",
+    "time": 1701098097,
+    "seqNumber": "1852",
+    "ppm": 46,
+    "Temperatura corporal": 33.235584,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701098107,
+    "seqNumber": "1853",
+    "ppm": 50,
+    "Temperatura corporal": 34.2131,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701098117,
+    "seqNumber": "1854",
+    "ppm": 50,
+    "Temperatura corporal": 32.746822,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.7
+  },
+  {
+    "device": "42933B",
+    "time": 1701098127,
+    "seqNumber": "1855",
+    "ppm": 50,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098138,
+    "seqNumber": "1856",
+    "ppm": 50,
+    "Temperatura corporal": 32.258064,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098147,
+    "seqNumber": "1857",
+    "ppm": 50,
+    "Temperatura corporal": 31.769306,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098157,
+    "seqNumber": "1858",
+    "ppm": 43,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098167,
+    "seqNumber": "1859",
+    "ppm": 54,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098177,
+    "seqNumber": "1860",
+    "ppm": 51,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098188,
+    "seqNumber": "1861",
+    "ppm": 51,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098198,
+    "seqNumber": "1862",
+    "ppm": 57,
+    "Temperatura corporal": 34.2131,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098208,
+    "seqNumber": "1863",
+    "ppm": 38,
+    "Temperatura corporal": 34.70186,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098218,
+    "seqNumber": "1864",
+    "ppm": 38,
+    "Temperatura corporal": 31.769306,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701098228,
+    "seqNumber": "1865",
+    "ppm": 38,
+    "Temperatura corporal": 33.235584,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701098238,
+    "seqNumber": "1866",
+    "ppm": 38,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098247,
+    "seqNumber": "1867",
+    "ppm": 51,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701098258,
+    "seqNumber": "1868",
+    "ppm": 51,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 46,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701098268,
+    "seqNumber": "1869",
+    "ppm": 51,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701098278,
+    "seqNumber": "1870",
+    "ppm": 51,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098298,
+    "seqNumber": "1872",
+    "ppm": 51,
+    "Temperatura corporal": 32.258064,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701098288,
+    "seqNumber": "1871",
+    "ppm": 51,
+    "Temperatura corporal": 28.836754,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701098308,
+    "seqNumber": "1873",
+    "ppm": 50,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701098319,
+    "seqNumber": "1874",
+    "ppm": 50,
+    "Temperatura corporal": 27.859238,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.5
+  },
+  {
+    "device": "42933B",
+    "time": 1701098328,
+    "seqNumber": "1875",
+    "ppm": 50,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098338,
+    "seqNumber": "1876",
+    "ppm": 50,
+    "Temperatura corporal": 33.724342,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098349,
+    "seqNumber": "1877",
+    "ppm": 67,
+    "Temperatura corporal": 31.280548,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098359,
+    "seqNumber": "1878",
+    "ppm": 67,
+    "Temperatura corporal": 32.258064,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098369,
+    "seqNumber": "1879",
+    "ppm": 49,
+    "Temperatura corporal": 27.859238,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098378,
+    "seqNumber": "1880",
+    "ppm": 53,
+    "Temperatura corporal": 32.746822,
+    "Humedad": 50,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098389,
+    "seqNumber": "1881",
+    "ppm": 53,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098399,
+    "seqNumber": "1882",
+    "ppm": 53,
+    "Temperatura corporal": 30.79179,
+    "Humedad": 49,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098408,
+    "seqNumber": "1883",
+    "ppm": 53,
+    "Temperatura corporal": 31.769306,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098419,
+    "seqNumber": "1884",
+    "ppm": 53,
+    "Temperatura corporal": 27.859238,
+    "Humedad": 48,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098428,
+    "seqNumber": "1885",
+    "ppm": 53,
+    "Temperatura corporal": 29.325512,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.6
+  },
+  {
+    "device": "42933B",
+    "time": 1701098438,
+    "seqNumber": "1886",
+    "ppm": 41,
+    "Temperatura corporal": 34.70186,
+    "Humedad": 47,
+    "Temperatura ambiental": 22.7
+  }
+]
