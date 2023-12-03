@@ -18,42 +18,46 @@ async function main() {
   const checkpointStore = new BlobCheckpointStore(containerClient);
   const consumerClient = new EventHubConsumerClient(consumerGroup, connectionString, eventHubName, checkpointStore);
 
-  let eventData = [];
 
-  const subscription = consumerClient.subscribe({
+  fs.writeFileSync('eventData.json', '[\n');
+
+  const subscription = consumerClient.subscribe(
+    {
       processEvents: async (events, context) => {
-        if (events.length === 0) {
-          console.log(`No events received within wait time. Waiting for next interval`);
-          return;
-        }
-
         for (const event of events) {
-          console.log(`Received event: '${event.body}' from partition: '${context.partitionId}' and consumer group: '${context.consumerGroup}'`);
-          eventData.push(event.body);
+          console.log(`Received event: Object from partition: '${context.partitionId}'`);
+          
+          fs.appendFileSync('eventData.json', JSON.stringify(event.body, null, 2) + ",\n");
         }
-
         await context.updateCheckpoint(events[events.length - 1]);
       },
-
-      processError: async (err, context) => {
-        console.log(`Error : ${err}`);
+      processError: async (error, context) => {
+        console.log(`Error : ${error}`);
       }
     },
     { startPosition: earliestEventPosition }
   );
 
-  await new Promise((resolve) => {
-    setTimeout(async () => {
-      await subscription.close();
-      await consumerClient.close();
-      fs.writeFile('eventData.json', JSON.stringify(eventData, null, 2), (err) => {
-        if (err) throw err;
-        console.log('Data written to file');
-      });
-      resolve();
-    }, 30000);
-  });
+  // Mantener el programa en ejecución
+  await new Promise(resolve => { });
 }
+
+function closeJsonFile() {
+  let data = fs.readFileSync('eventData.json', 'utf8').trim();
+  if (data.endsWith(',')) {
+    data = data.substring(0, data.length - 1);
+  }
+  fs.writeFileSync('eventData.json', data + '\n]');
+  console.log('JSON file closed.');
+}
+
+function handleExit() {
+  closeJsonFile();
+  process.exit(0);
+}
+
+process.on('SIGINT', handleExit);
+process.on('SIGTERM', handleExit);
 
 main().catch((err) => {
   console.log("Error occurred: ", err);
